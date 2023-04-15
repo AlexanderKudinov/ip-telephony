@@ -12,7 +12,7 @@ Author: Кудинов Александр Вадимович
 
 Lab: Lab1
 
-Date of create: 05.03.2022
+Date of create: 19.03.2022
 
 Date of finished:
 
